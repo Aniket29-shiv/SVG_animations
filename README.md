@@ -1,8 +1,7 @@
 # SVG_animations
 ## Simple animations using CSS on SVG files
 
-### 👇Button.html______________
-👇Phone.html
+### 👇Button.html_____________👇Phone.html
 <img src="Media1.gif" width="256" height="300"/>                        <img src="Media2.gif" width="256" height="300"/>
 
 
